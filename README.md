@@ -10,7 +10,7 @@ Página de presentación personal
 
 ### Descripción del proyecto
 
-![Portada](https://github.com/Mcsand22/studiobym/tree/master/img/presentation.PNG)
+![Portada](https://github.com/Mcsand22/studiobym/blob/master/img/presentation.png)
 
 Studio by M es una página web personal que presenta mis habilidades como docente, desarrolladora Fullstack y diseñadora UX/UI. A través de esta plataforma, comparto mi pasión por la enseñanza y la tecnología, así como mi dedicación a crear experiencias digitales atractivas y accesibles.
 
